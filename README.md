@@ -13,3 +13,4 @@ Key Features:
 
 DailyDigest is your go-to news app for staying informed and connected. With its wide range of categories, attractive user interface, and focus on delivering the latest news, it is the ultimate resource for news enthusiasts. Download DailyDigest now and experience news like never before.
 
+![1](https://github.com/djnikam/NewsApplication/assets/100481110/e29b3e15-e7b2-4212-afbf-5132ff1c6e42)
