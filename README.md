@@ -13,39 +13,26 @@ DailyDigest is your go-to news app for staying informed and connected. With its 
 
 𝐌𝐨𝐛𝐢𝐥𝐞 𝐈𝐦𝐚𝐠𝐞𝐬:
 
-![1](https://github.com/djnikam/NewsApplication/assets/100481110/e29b3e15-e7b2-4212-afbf-5132ff1c6e42)
+![1](https://github.com/djnikam/NewsApplication/assets/100481110/3b996e68-65af-4c20-9b67-faf758779f26)
 
+![2](https://github.com/djnikam/NewsApplication/assets/100481110/3fd4a174-d34e-43b6-808f-9c11369c9e2d)
 
-![2](https://github.com/djnikam/NewsApplication/assets/100481110/e47280f4-494f-46f7-88e0-5e11a237ea44)
-
-
-![5](https://github.com/djnikam/NewsApplication/assets/100481110/52163e82-b9e7-4ae5-856d-0a9f73c4d190)
-
-
-![8](https://github.com/djnikam/NewsApplication/assets/100481110/80c1b7f1-f31e-4e9a-b96f-09d70c985004)
+![5](https://github.com/djnikam/NewsApplication/assets/100481110/321f3307-1a42-4f4f-a7cd-7d05b477f94d)
 
 
 𝟕' 𝐓𝐚𝐛 𝐈𝐦𝐚𝐠𝐞𝐬:
 
-![2](https://github.com/djnikam/NewsApplication/assets/100481110/a2c88c1e-8081-4b7e-8afd-9bb901046594)
+![2](https://github.com/djnikam/NewsApplication/assets/100481110/360cb29f-d8cc-4268-aa3d-3c8d3e30aaad)
 
-
-![7](https://github.com/djnikam/NewsApplication/assets/100481110/96c8d00c-b2ea-4184-afb9-4dc81cd98c76)
-
-
-![8](https://github.com/djnikam/NewsApplication/assets/100481110/e14358ca-9890-409a-be1e-d271e419fa6f)
-
+![1](https://github.com/djnikam/NewsApplication/assets/100481110/8ecbdf00-53e9-4ad7-904f-873e65cd547a)
 
 𝟏𝟎' 𝐓𝐚𝐛 𝐈𝐦𝐚𝐠𝐞𝐬:
 
-![5](https://github.com/djnikam/NewsApplication/assets/100481110/13f9e6e1-69e1-495e-b56d-28631429293b)
+![5](https://github.com/djnikam/NewsApplication/assets/100481110/e3caddc7-0eee-4a85-ab8c-693e5f0733a7)
 
+![4](https://github.com/djnikam/NewsApplication/assets/100481110/261f46c2-da67-46b1-8724-3e835ea4b817)
 
-![4](https://github.com/djnikam/NewsApplication/assets/100481110/ac32b5ba-e437-403d-ac13-a25bc9264e10)
-
-
-![1](https://github.com/djnikam/NewsApplication/assets/100481110/8ad056c4-e335-43bb-847c-52f2ba9d223f)
-
+![1](https://github.com/djnikam/NewsApplication/assets/100481110/f4b48ef0-9d62-4b99-b1bc-1cc66d2b7da3)
 
 
 
